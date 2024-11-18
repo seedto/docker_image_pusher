@@ -1,3 +1,3 @@
 python:3.10
 python:3.8
-zabbix/zabbix-server-mysql:sha256-1c08b9d4c07afee4da9f5dbb61a11ce613b8d26d310ca0cea6e73f49dfae975e
+zabbix-server-mysql:sha256-1c08b9d4c07afee4da9f5dbb61a11ce613b8d26d310ca0cea6e73f49dfae975e
