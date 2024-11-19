@@ -1,1 +1,2 @@
-mariadb:10.3
+zabbix/zabbix-server-mysql:5.4-ubuntu-latest
+--platform=linux/amd64
