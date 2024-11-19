@@ -1,1 +1,1 @@
-zabbix/zabbix-web-nginx-mysql:5.4-ubuntu-latest
+zabbix/zabbix-agent2:5.4-ubuntu-latest
