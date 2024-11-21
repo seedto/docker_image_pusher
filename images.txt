@@ -1,1 +1,1 @@
-ubuntu:20.04
+tomcat:9.0-jre17
