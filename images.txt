@@ -1,2 +1,1 @@
-guacamole/guacamole
-guacamole/guacd
+openjdk:24-oraclelinux9
