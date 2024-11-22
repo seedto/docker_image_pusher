@@ -1,1 +1,2 @@
-tomcat:9.0-jre17
+guacamole/guacamole
+guacamole/guacd
