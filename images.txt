@@ -1,1 +1,1 @@
-php:8.2.27RC1-zts-bullseye
+php:8.2-cli
