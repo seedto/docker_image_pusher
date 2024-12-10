@@ -1,1 +1,1 @@
-openjdk:24-oraclelinux9
+php:8.2.27RC1-zts-bullseye
