@@ -1,1 +1,1 @@
-mpromonet/webrtc-streamer
+vllm/vllm-openai
