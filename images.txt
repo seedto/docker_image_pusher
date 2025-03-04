@@ -1,1 +1,1 @@
-intel/oneapi
+justsong/one-api
